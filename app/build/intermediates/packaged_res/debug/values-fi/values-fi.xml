@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="_20c">20 C</string>
+    <string name="_3_m_s">3m/s</string>
+    <string name="app_name">sääsovellus</string>
+    <string name="call_me">Soita minulle</string>
+    <string name="humidity">kosteus</string>
+    <string name="refresh">virkistää</string>
+    <string name="set_alarm">Aseta hälytys</string>
+    <string name="show_location">Näytä sijainti</string>
+    <string name="sunny">aurinkoinen</string>
+    <string name="tampere">Tampere</string>
+    <string name="welcome_to_league">tervetuloa legendojen liigaan</string>
+</resources>

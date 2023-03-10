@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="_20c">温度:20</string>
+    <string name="_3_m_s">风速:3m/s</string>
+    <string name="app_name">weather_app</string>
+    <string name="call_me">呼叫我</string>
+    <string name="humidity">湿度</string>
+    <string name="refresh">刷新</string>
+    <string name="set_alarm">设置闹钟</string>
+    <string name="show_location">显示位置</string>
+    <string name="sunny">晴朗</string>
+    <string name="tampere">坦佩雷</string>
+    <string name="welcome_to_league">欢迎来到英雄联盟</string>
+</resources>

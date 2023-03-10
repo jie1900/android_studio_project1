@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">weather_app</string>
+    <string name="refresh">Refresh</string>
+    <string name="_20c">+20C</string>
+    <string name="_3_m_s">3 m/s</string>
+    <string name="sunny">Sunny</string>
+    <string name="tampere">Tampere</string>
+    <string name="humidity">humidity</string>
+    <string name="welcome_to_league">Welcome to LEAGUE!</string>
+    <string name="set_alarm">Set alarm</string>
+    <string name="show_location">Show location</string>
+    <string name="call_me">Call me</string>
+    <string name="city_predict">City Predict</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="city">City</string>
+    <string name="get_weather_data">Get Weather Data</string>
+    <string name="enter_a_city_name">Enter a city name</string>
+    <string name="get_weather_data_of_different_city">Get Weather Data of Different City</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">sääsovellus</string>
+    <string name="refresh">virkistää</string>
+    <string name="_20c">20 C</string>
+    <string name="_3_m_s">3m/s</string>
+    <string name="sunny">aurinkoinen</string>
+    <string name="tampere">Tampere</string>
+    <string name="humidity">kosteus</string>
+    <string name="welcome_to_league">tervetuloa legendojen liigaan</string>
+    <string name="set_alarm">Aseta hälytys</string>
+    <string name="show_location">Näytä sijainti</string>
+    <string name="call_me">Soita minulle</string>
+    <string name="city_predict">kaupunki ennustaa</string>
+    <string name="enter_city_name">Anna kaupungin nimi</string>
+    <string name="city">kaupunki</string>
+    <string name="get_weather_data">Hanki säätiedot</string>
+    <string name="enter_a_city_name">Anna kaupungin nimi!</string>
+    <string name="get_weather_data_of_different_city">Hanki säätiedot eri kaupungeista</string>
+</resources>
