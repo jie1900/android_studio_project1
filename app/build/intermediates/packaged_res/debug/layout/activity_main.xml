@@ -170,7 +170,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="50dp"
         android:onClick="goToCitySelectionPage"
-        android:text="Get Weather Data of Different City"
+        android:text="@string/get_weather_data_of_different_city"
         app2:layout_constraintEnd_toEndOf="parent"
         app2:layout_constraintStart_toStartOf="parent"
         app2:layout_constraintTop_toBottomOf="@+id/button" />

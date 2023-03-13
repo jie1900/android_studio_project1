@@ -52,10 +52,6 @@
         "source": "C:\\Users\\ljjie\\.gradle\\daemon\\7.5\\com.example.weather_app-main-31:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.weather_app-merged_res-29:/layout_activity_city_selection.xml.flat",
-        "source": "com.example.weather_app-main-31:/layout/activity_city_selection.xml"
-    },
-    {
         "merged": "C:\\Users\\ljjie\\.gradle\\daemon\\7.5\\com.example.weather_app-merged_res-29:\\drawable_r.png.flat",
         "source": "C:\\Users\\ljjie\\.gradle\\daemon\\7.5\\com.example.weather_app-main-31:\\drawable\\r.png"
     },

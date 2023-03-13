@@ -16,6 +16,7 @@
     <string name="enter_a_city_name">Enter a city name</string>
     <string name="enter_city_name">Enter city name</string>
     <string name="get_weather_data">Get Weather Data</string>
+    <string name="get_weather_data_of_different_city">Get Weather Data of Different City</string>
     <string name="humidity">humidity</string>
     <string name="refresh">Refresh</string>
     <string name="set_alarm">Set alarm</string>

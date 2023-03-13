@@ -3384,6 +3384,7 @@ int string exposed_dropdown_menu_content_description 0x7f0f002a
 int string fab_transformation_scrim_behavior 0x7f0f002b
 int string fab_transformation_sheet_behavior 0x7f0f002c
 int string get_weather_data 0x7f0f009b
+int string get_weather_data_of_different_city 0x7f0f009d
 int string hide_bottom_view_on_scroll_behavior 0x7f0f002d
 int string humidity 0x7f0f0092
 int string icon_content_description 0x7f0f002e

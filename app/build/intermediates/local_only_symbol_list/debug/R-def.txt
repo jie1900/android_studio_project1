@@ -38,6 +38,7 @@ string city_predict
 string enter_a_city_name
 string enter_city_name
 string get_weather_data
+string get_weather_data_of_different_city
 string humidity
 string refresh
 string set_alarm

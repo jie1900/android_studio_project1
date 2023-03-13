@@ -4,6 +4,12 @@
     <string name="_3_m_s">风速:3m/s</string>
     <string name="app_name">weather_app</string>
     <string name="call_me">呼叫我</string>
+    <string name="city">城市</string>
+    <string name="city_predict">城市预告</string>
+    <string name="enter_a_city_name">输入城市名字！</string>
+    <string name="enter_city_name">输入城市名字</string>
+    <string name="get_weather_data">获取天气数据</string>
+    <string name="get_weather_data_of_different_city">获得不同城市天气数据</string>
     <string name="humidity">湿度</string>
     <string name="refresh">刷新</string>
     <string name="set_alarm">设置闹钟</string>
